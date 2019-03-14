@@ -5,11 +5,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Registration Page SATHYA TECH DEVOPS</title>
+<title>Registration Page ARSHIYA THE VEER NAARI</title>
+<title>Registration Page ARSHIYA THE VEER NAARI</title>
 <title>DEMO PAGE </title>
-<title>Registration Page SATHYA TECH DEVOPS</title>
-<title>Registration Page SATHYA TECH DEVOPS</title>
+<title>Registration Page ARSHIYA THE BEGUM</title>
+<title>Registration Page ARSHIYA THE BEGUM</title>
 
 </head>
 <body>
